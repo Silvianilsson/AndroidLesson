@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378057459000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1378057459000 324 d35923b4024e7adea5cef164ce5afb731d2a9b5d /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/res/all/debug/values-v11/values.xml
+1378057459000 2304 edee052540f9cad012b4fc399420a8115eab68e5 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/res/all/debug/layout/activity_main.xml
+1378057459000 360 6fa5aaf550cf66598ba75a2ec9ffd72814a85e54 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/res/all/debug/menu/my_first_app.xml
+1378057458000 352 e006cc7a526476c6a05fc9047f20b5d032d07aa5 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/res/all/debug/menu/main.xml
+1378057459000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1378057459000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1378057458000 1713 4b8a6ddac0e9e71c8b72a3f6ed8b637bc01cf64a /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/res/all/debug/values/values.xml
+1378057459000 338 09e7d024c087367e22755d744d901cfa35a8fec0 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/res/all/debug/values-v14/values.xml
+1378057459000 2672 bc6f8ae1329fb27e51e62275452de47071a4070e /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/res/all/debug/layout-land/activity_main.xml
+1378057459000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1378057459000 255 305d26b3f4d88a6f81e0efbd1038648d445fcc70 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/res/all/debug/values-sw720dp-land/values.xml
+1378057458000 1302 b48f39a01efecafc25a26cb1feaca00169491779 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/res/all/debug/layout/activity_app.xml

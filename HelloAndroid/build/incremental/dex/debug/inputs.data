@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378057461000 442 a5f90670078fd8dc01efc5fad5d9109ffdafc608 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/classes/debug/se/softwerk/helloandroid/R$menu.class
+1378057461000 449 4e9f63e1ebff0510eb419658bab3e13f1a00a084 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/classes/debug/se/softwerk/helloandroid/R$style.class
+1378057461000 358 1b1161df77b9b4afaef1f7155306ae3c9e20ab85 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/classes/debug/se/softwerk/helloandroid/R$attr.class
+1378057461000 479 e68f0ae6e0f9bf1d908c814369343869c2a9bc85 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/classes/debug/se/softwerk/helloandroid/R$dimen.class
+1378057461000 430 6fcd2ef93a7c6cb095e3f67903ecf036534387ad /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/classes/debug/se/softwerk/helloandroid/R$color.class
+1378057461000 683 0db12d7a17a2ca43da660346ae88202dbfade5a7 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/classes/debug/se/softwerk/helloandroid/R$id.class
+1377679566000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1378057461000 457 019f9f73f30b46acd263eaeb85307c5bf3704baa /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/classes/debug/se/softwerk/helloandroid/R$layout.class
+1378057461000 951 7866473eb97bccdd94b79acdf81d92cb28fab3b6 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/classes/debug/com/mycompany/myapp/MyFirstApp.class
+1378057461000 425 a033cd831fb7b07d272e8d67fda7276e47e08c88 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/classes/debug/se/softwerk/helloandroid/R$drawable.class
+1378057461000 777 22fdb8273e51c6332231fa05ff80ac2a8e295dbf /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/classes/debug/se/softwerk/helloandroid/R$string.class
+1378057461000 791 37c8498a9763293c6c796b58ae32be2d71d96b3f /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/classes/debug/se/softwerk/helloandroid/R.class
+1378057461000 4733 77202b1623880ffb86439f7c4f9263dc0d9f5930 /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/classes/debug/se/softwerk/helloandroid/MainActivity.class
+1378057461000 357 be0fdf2401b79ff2f56f1526086b3a3f3ba9820f /Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/build/classes/debug/se/softwerk/helloandroid/BuildConfig.class

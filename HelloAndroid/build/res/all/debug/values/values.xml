@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/src/main/res/values/colors.xml -->
+    <color name="default_button_text_color">#333</color>
+    <!-- From: file:/Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/src/main/res/values/dimens.xml -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/src/main/res/values/strings.xml -->
+    <string name="action_settings">Settings</string>
+    <string name="add_button_label">Add</string>
+    <string name="already_10_items">Already 10 items!</string>
+    <string name="app_name">My First App!</string>
+    <string name="button_send">Send</string>
+    <string name="cannot_reduce_list">Cannot reduce list!</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="hello_world">Hello!</string>
+    <string name="reduce_button_label">Reduce</string>
+    <string name="title_activity_my_first_app">MainActivity</string>
+    <!-- From: file:/Users/silvia/Downloads/se.softwerk.helloandroid/HelloAndroid/src/main/res/values/styles.xml -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
